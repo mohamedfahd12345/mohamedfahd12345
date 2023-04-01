@@ -3,19 +3,19 @@
 </div>  
   
 
-### <div align="center">I am a Student at the Faculty of Computer and Information Science at Ain Shams University,
+### <div align="center">Hi there I'm Mohamed Fahd👋
 
 </div>  
   
 
-- 🔭I'm a backend developer with asp.net core  
+- 📖Student at the Faculty of Computer and Information Science at Ain Shams University.
   
 
-- 🌱 I have excellent programming and problem-solving skills.
+- 💻 Interested in backend development and database design.
   
   
 
-- ❓ I am passionate about algorithms and data structures and software development  
+- ❓ Interested in algorithms, data structures, problem-solving and software development.
   
 
 <br/>  
