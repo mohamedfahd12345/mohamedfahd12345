@@ -9,6 +9,7 @@
   
 
 - 📖Student at the Faculty of Computer and Information Science at Ain Shams University.
+- Ex-SWE Intern @ Microsoft | Ex-SWE Intern @Tactful
   
 
 - 💻 Interested in backend development and database design.
